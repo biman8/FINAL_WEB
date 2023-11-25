@@ -1,0 +1,22 @@
+body {
+    font-family: 'Century', sans-serif;
+    background-color: #FFFFFF;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    margin-top: 30px;
+  }
+  
+  h2 {
+    color: #006039;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
