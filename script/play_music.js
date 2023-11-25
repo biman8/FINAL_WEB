@@ -1,5 +1,5 @@
 window.addEventListener("load", () => {
-    var audio = new Audio("../script/lofi.mp3");
+    var audio = new Audio("./script/lofi.mp3");
     function playAudio() {
         audio.play();
     }
